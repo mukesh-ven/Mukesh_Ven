@@ -6,7 +6,7 @@ A simple Streamlit app template for you to modify!
 
 ### How to run it on your own machine
    ```
-   $ python run streamlit.py
+   $ python run streamlit_app.py
    ```
 
 
